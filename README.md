@@ -7,7 +7,7 @@
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
 - 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.</br>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
