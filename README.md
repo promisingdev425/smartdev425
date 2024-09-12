@@ -1,100 +1,41 @@
-<!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
-<div>
-<br/>
-- 🔭 Full-stack developer with 10 years of experience designing and building scalable, high-performance Web3 web and mobile applications<br/>
-- 🌱 Proficient in Blockchain technologies like NFT, DAO, DEFI, DEX(Thorchain, Mayachain, Uniswap), Crypto Game on EVM, BSC, Solana, XRPL, Terra, Cosmos platforms, <br/>
-- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
-- 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.</br>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+# <a href="https://github.com/smartdev425">Promised Dev</a>
 
-</div>
-
----
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-
-<div style="width: 100%; display: flex; justify-content: space-between; flex-direction: column;">
-  <div>
-    <h2>Blockchain</h2>
-    <div>
-      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=032" alt="Bitcoin" width="45" height="45" />
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="ETH" width="45" height="45" />
-      <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=032" alt="Tether" width="45" height="45" />
-      <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=032" alt="BNB" width="45" height="45"/>
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=032" alt="SOLANA" width="45" height="45"/>
-      <img src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=032" alt="XRP" width="45" height="45" />
-      <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=032" alt="Polygon" width="70" height="45" />
-      <img src="https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=032" alt="AVAX" width="70" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>Front-end</h2>
-    <div>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-      <img src="./assets/react-native.svg" alt="react-native" width="45" height="45" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="45" height="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-      <img src="https://ui-lib.com/blog/wp-content/uploads/2022/05/nuxtjs-vs-nextjs-comparision.png" alt="nuxtjs" width="70" height="45" />
-      <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
-      <img src="https://miro.medium.com/max/700/1*iXsCHAHPN7xFAWuuWjE6-Q.png" alt="nextjs" width="45" height="45" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwindcss" width="135" height="45" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-      <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="bootstrap" width="45" height="45" />0
-    </div>
-  </div>
-  <div>
-    <h2>Back-end</h2>
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="45" height="45" />
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="70" height="45"/>
-      <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="45" height="45"/>
-      <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="javascript" width="45" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>Language</h2>
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="45" height="45"/>
-      <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="45" height="45"/>
-      <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="70" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-      <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" />
-      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>DBMS</h2>
-    <div>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-      <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="45" height="45" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-      <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="80" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>Software Tools & Services</h2>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-    </div>
-  </div>
-</div>
-</p>
-
----
-  
-  
-
-
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-SPL20-informational?style=flat&logo=spl20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-information?style=flat&logo=rust&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-SPL2022-informational?style=flat&logo=spl2022&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
@@ -111,9 +52,11 @@
 
 ✨ Preferred JS and TS frameworks ✔React.js, ✔React Native, ✔Next.js, Nuxt.js, ✔Vue.js, ✔Node.js, ✔Nest.js, ✔GraphQL
 
-✨ Preferred Web3 technologies ✔NFT, ✔DAO, ✔DEFI, ✔DEX, ✔Crypto Game on ✔EVM, ✔Solana, ✔Terra, ✔Cosmos platforms
+✨ Preferred Web3 technologies  ✔AMMs, ✔NFT, ✔DAO, ✔DEFI, ✔DEX, ✔Crypto Game on ✔EVM, ✔Solana, ✔Terra, ✔Cosmos platforms
 
 ✨ Preferred ✔Golang frameworks ✔Geth, ✔Gin, ✔Gorilla mux, ✔Bun and etc...
+
+✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
           
@@ -121,9 +64,8 @@
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
          
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+         
 ✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
          
 ✨ Payment gateway integration  ✔Stripe, ✔PayPal
-
-
-
